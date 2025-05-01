@@ -11,14 +11,3 @@ Detailed information is summarized in the manuscript titled:
 _Author Name(s)_  
 Submitted/published in **[Journal Name]**, [Month Year]  
 DOI: *To be added upon acceptance/publication*
-
----
-
-## 🧬 Background
-
-CRISPR spacer sequences recovered from metagenomic datasets can provide insights into host-virus interactions, microbial immunity, and microbial community dynamics in ruminants such as cattle, sheep, and goats. This project focuses on generating a curated database of CRISPR spacers from the rumen and intestinal microbiomes of ruminants.
-
----
-
-## 📂 Repository structure
-
