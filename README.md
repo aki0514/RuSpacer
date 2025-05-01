@@ -7,7 +7,7 @@ This repository contains:
 
 Detailed information is summarized in the manuscript titled:
 
-**"Title of your paper here"**  
-_Author Name(s)_  
-Submitted/published in **[Journal Name]**, [Month Year]  
+**"Construction of CRISPR spacer database from ruminant-associated prokaryotes for ruminant virome analysis"**  
+*Yoshiaki Sato* 
+Published in **Scientific Data**  
 DOI: *To be added upon acceptance/publication*
