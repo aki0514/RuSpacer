@@ -3,7 +3,6 @@
 This repository contains:
 
 - Scripts and commands used to extract and analyze CRISPR spacers from metagenomic datasets derived from the gastrointestinal microbiomes of ruminants.
-- Sample data and instructions for reproducing key steps of the analysis pipeline.
 
 Detailed information is summarized in the manuscript titled:
 
