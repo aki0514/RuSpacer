@@ -8,6 +8,5 @@ Detailed information is summarized in the manuscript titled:
 
 **"Construction of CRISPR spacer database from ruminant-associated prokaryotes for ruminant virome analysis"**  
 *Yoshiaki Sato* 
-
-Published in *Scientific Data*  
+  
 DOI: *To be added upon acceptance/publication*
